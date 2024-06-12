@@ -18,6 +18,7 @@ Project Tooling:
 
 
 Project processes and techniques:
+
 • Understanding network design and architecture
 • Configuration of VoIP server and clients
 • Implementing security of VoIP server
